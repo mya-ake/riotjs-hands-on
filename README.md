@@ -13,7 +13,7 @@
 
 Riot.jsのサイトにあるサンプルのTODOリストを改変したもの。
 
-[サンプル](https://mya-ake.com/sample/riot/todo/)
+[サンプル](https://mya-ake.com/samples/riot/todo/)
 
 
 ## そもそもRiot.jsってどんなライブラリ？
